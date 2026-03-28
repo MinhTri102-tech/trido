@@ -130,7 +130,7 @@
 <!-- VÙNG 5: Hình -->
 <div align="center">
     <br>
-    <img src="https://nguyencongpc.vn/media/product/22897-laptop-apple-macbook-pro-m2-10gpu.png 500x300">
+    <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-color-unselect-202603-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=TytZbDBUUnRqRElRcFlBSHpmZVVDK3BoR2lIdGdhMDNQSUZrOHIycWd6Vmd1bjBBbHBBMFNjNjVIN0pUcUg2U0tZMGFKbG9yanhQdjZDS1dZUFFhRVE4bm1RcmlWRWp2eDN1WHNkSjNmUmFub3B6RFdCcnJtSHE1TzBCb3pCcis&traceId=1" width=600">
 </div>
 
 </body>
