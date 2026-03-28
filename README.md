@@ -1,4 +1,4 @@
-Al : GPT
+Al : GPT =>
 CÂU LỆNH : giữ nguyên đoạn code này thêm vào (css) tạo ra giao diện đúng như trên
 
 <!DOCTYPE html>
