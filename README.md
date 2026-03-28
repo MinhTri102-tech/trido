@@ -130,7 +130,7 @@
 <!-- VÙNG 5: Hình -->
 <div align="center">
     <br>
-    <img src="https://via.placeholder.com/500x300">
+    <img src="https://nguyencongpc.vn/media/product/22897-laptop-apple-macbook-pro-m2-10gpu.png 500x300">
 </div>
 
 </body>
