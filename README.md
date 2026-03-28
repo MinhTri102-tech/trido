@@ -1,6 +1,6 @@
-Al : GPT =>
-CÂU LỆNH : giữ nguyên đoạn code này thêm vào (css) tạo ra giao diện đúng như trên
-
+#AI : GPT =>
+#CÂU LỆNH : giữ nguyên đoạn code này thêm vào (css) tạo ra giao diện đúng như trên
+# Kết quả
 <!DOCTYPE html>
 <html>
 <head>
