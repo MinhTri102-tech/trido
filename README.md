@@ -130,7 +130,7 @@
 <!-- VÙNG 5: Hình -->
 <div align="center">
     <br>
-    <img src="https://via.placeholder.com/500x300">
+    <img src="https://www.google.com/imgres?q=macbook&imgurl=https%3A%2F%2Ftechcare.vn%2Fimage%2Fmacbook-air-m2-13inch-4-bj2v30u.jpg&imgrefurl=https%3A%2F%2Ftechcare.vn%2Fmacbook-air-m2-13inch%2F&docid=uDdg1Xm3mes5vM&tbnid=CcpVaB0uqaTpKM&vet=12ahUKEwjL9uHemMKTAxX5oa8BHedeMz8QnPAOegQILBAB..i&w=800&h=450&hcb=2&ved=2ahUKEwjL9uHemMKTAxX5oa8BHedeMz8QnPAOegQILBAB 500x300">
 </div>
 
 </body>
